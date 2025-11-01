@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aviwe Van-Royal Nodubela
 
-🎓 N6 Electrical Engineering graduate | 🧠 Machine Learning Enthusiast  
+🎓 N6 Electrical Engineering student | 🧠 Machine Learning Enthusiast  
 📍 Based in Hibberdene, South Africa  
 📬 Email: aviwenodubela256@gmail.com  
 
